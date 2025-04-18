@@ -10,7 +10,7 @@
 
 - 👾 Building robust Backend systems & occasionally conquering Frontend frontiers
 - 👨🏻‍💻 Senior Software Engineer at [@olxbr](https://olxbrasil.com.br/) 
-- 📚 I’m currently learning mobile development
+- 📚 I’m currently learning mobile development (Swift)
 - 💬 Ask me about Software Design, Architecture, Best Practices… and why JavaScript is a necessary evil
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luismigssantana/) 
 - ⚡ Fun fact: My first IT job was at a huge TV network in Brazil. Once, I trolled Facebook by saying I’d landed an acting role in a popular soap opera—and believe it or not, some folks still think it’s true!
